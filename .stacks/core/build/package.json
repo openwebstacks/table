@@ -59,7 +59,7 @@
     "vite-plugin-inspect": "^0.7.12",
     "vite-plugin-pages": "^0.28.0",
     "vite-plugin-pwa": "^0.14.0",
-    "vite-plugin-vue-component-preview": "^0.3.4",
+    "vite-plugin-vue-component-preview": "^1.1.7",
     "vite-plugin-vue-layouts": "^0.7.0",
     "vite-plugin-vue-markdown": "^0.22.2",
     "vite-ssg": "^0.22.1",
