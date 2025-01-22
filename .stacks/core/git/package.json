@@ -44,7 +44,7 @@
     "typecheck": "tsc --noEmit"
   },
   "peerDependencies": {
-    "bumpp": "^8.2.1",
+    "bumpp": "^9.10.2",
     "commitizen": "^4.2.6",
     "conventional-changelog-cli": "^2.2.2",
     "cz-git": "^1.4.1",
