@@ -2,7 +2,7 @@
   "name": "@stacksjs/modules",
   "type": "module",
   "version": "0.41.1",
-  "packageManager": "pnpm@7.21.0",
+  "packageManager": "pnpm@7.33.7",
   "description": "The Stacks framework modules.",
   "author": "Chris Breuer",
   "license": "MIT",
@@ -31,8 +31,8 @@
     "README.md"
   ],
   "engines": {
-    "node": ">=v18.12.1",
-    "pnpm": ">=7.21.0"
+    "node": ">=18.20.6",
+    "pnpm": ">=7.33.7"
   },
   "scripts": {
     "build": "mkdist -d",
@@ -42,12 +42,12 @@
   },
   "peerDependencies": {
     "@stacksjs/types": "workspace:*",
-    "@types/nprogress": "^0.2.0",
+    "@types/nprogress": "^0.2.3",
     "nprogress": "^0.2.0",
-    "vue-i18n": "^9.2.2"
+    "vue-i18n": "^9.14.2"
   },
   "devDependencies": {
-    "mkdist": "^1.0.0",
-    "typescript": "^4.9.4"
+    "mkdist": "^1.6.0",
+    "typescript": "^4.9.5"
   }
 }
