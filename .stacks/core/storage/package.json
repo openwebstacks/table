@@ -43,19 +43,19 @@
   },
   "devDependencies": {
     "@stacksjs/path": "workspace:*",
-    "mkdist": "^1.0.0",
-    "typescript": "^4.9.4",
-    "unstorage": "^1.0.1"
+    "mkdist": "^1.6.0",
+    "typescript": "^4.9.5",
+    "unstorage": "^1.14.4"
   },
   "peerDependencies": {
     "@stacksjs/arrays": "workspace:*",
     "@stacksjs/types": "workspace:*",
     "@stacksjs/utils": "workspace:*",
-    "fs-extra": "^11.1.0"
+    "fs-extra": "^11.3.0"
   },
-  "packageManager": "pnpm@7.21.0",
+  "packageManager": "pnpm@7.33.7",
   "engines": {
-    "node": ">=v18.12.1",
-    "pnpm": ">=7.21.0"
+    "node": ">=18.20.6",
+    "pnpm": ">=7.33.7"
   }
 }

@@ -27,8 +27,8 @@
     "Chris Breuer <chris@ow3.org>"
   ],
   "engines": {
-    "node": ">=v18.12.1",
-    "pnpm": ">=7.21.0"
+    "node": ">=18.20.6",
+    "pnpm": ">=7.33.7"
   },
   "scripts": {
     "buddy": "esno .stacks/buddy/src/cli.ts",
@@ -98,10 +98,10 @@
     "test:types": "pnpm buddy test:types"
   },
   "dependencies": {
-    "@vueform/multiselect": "^2.5.8",
+    "@vueform/multiselect": "^2.6.11",
     "install": "^0.13.0",
-    "meilisearch": "^0.30.0",
-    "vue-demi": "^0.13.11"
+    "meilisearch": "^0.48.2",
+    "vue-demi": "^0.14.10"
   },
   "devDependencies": {
     "stacks": "workspace:*"
