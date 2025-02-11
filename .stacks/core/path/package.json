@@ -45,7 +45,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "pathe": "^1.0.0"
+    "pathe": "^2.0.3"
   },
   "devDependencies": {
     "mkdist": "^1.0.0",
